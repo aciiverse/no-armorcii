@@ -4,6 +4,9 @@
 		"prettier-plugin-java": "2.9.7"
 	},
 	"scripts": {
-		"format": "npx prettier --write ."
+		"format": "npx prettier --write .",
+		"start": "./gradlew vscode",
+		"gen:sources": "./gradlew genSources",
+		"build": "./gradlew build"
 	}
 }

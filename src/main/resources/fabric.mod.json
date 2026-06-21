@@ -3,11 +3,11 @@
 	"id": "no-armorcii",
 	"version": "${version}",
 	"name": "No Armorcii",
-	"description": "This is an example description! Tell everyone what your mod is about!",
-	"authors": ["Me!"],
+	"description": "Armor Visibility Toggle Mod",
+	"authors": ["Flowcii", "Aciiverse"],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://aciiverse.com/",
+		"sources": "https://github.com/aciiverse/no-armorcii"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/no-armorcii/icon.png",
