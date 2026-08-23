@@ -7,6 +7,7 @@
 		"format": "npx prettier --write .",
 		"start": "./gradlew vscode",
 		"gen:sources": "./gradlew genSources",
-		"build": "./gradlew build"
+		"build": "./gradlew build",
+		"run": "./gradlew runClient"
 	}
 }
